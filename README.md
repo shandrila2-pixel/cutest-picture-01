@@ -2,10 +2,12 @@
 
 Entry for make.fun's **Make the cutest picture** competition.
 
-A kawaii kitten in a teal knit beanie, drawn entirely in code with
-PIL at 2× supersampling: big glossy eyes, rosy blush, cat mouth (ω),
-ribbed band, chevron knit texture, pompom and floating hearts on a
-soft pastel sky.
+**"Cream kitten in a strawberry beanie hugging a plush bunny"** —
+a soft-shaded fuzzy-plush kitten drawn entirely in code with numpy
+soft-ball shading and PIL fur strokes at 2× supersampling: huge
+glossy amber eyes, blep tongue, rosy blush, whiskers, pink toe
+beans, knit texture and seeds on the strawberry beanie, all on a
+warm apricot glow. Deterministic (fixed seeds).
 
 `main.py` writes the bundled image to `/output/entry.png`;
 `generate.py` is the full generator for reference.
